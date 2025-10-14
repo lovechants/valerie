@@ -1,7 +1,13 @@
-# Physics Engine Foundation
+# Valerie's Physics Engine Foundation
 
 Geniunely have no clue why I am doing this.
 - Trying to use very minimal dependencies
+
+
+## Things to do and use with this Implementation
+- Updated math in C++20 (inspired by glm)
+- Render | Visual engine interface  
+- Wireframe interface
 
 ## Vec3 - 3D Vector Mathematics
 
