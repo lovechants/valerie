@@ -360,7 +360,6 @@ World.step() →
 
 ## Future Extensions
 
-This foundation supports adding:
 - **Collision Detection:** Broad-phase (spatial partitioning) and narrow-phase (shape-specific) collision
 - **Collision Response:** Impulse-based collision resolution with restitution and friction
 - **Constraints:** Spring joints, distance constraints, angular limits
